@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "736114326719",
+    "project_id": "projek-skripsi-mata-katarak",
+    "storage_bucket": "projek-skripsi-mata-katarak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736114326719:android:43db8cb37c638892e55a0a",
+        "android_client_info": {
+          "package_name": "com.swasty.matakatarak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736114326719-i1n5o9lgrkn6hu0r21geelj4h9pptnv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swasty.matakatarak",
+            "certificate_hash": "eb06e141400b693a136265808dfd729eb94f39e1"
+          }
+        },
+        {
+          "client_id": "736114326719-5b1fv46r18vqj7nfsjf6jdiih3a640rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyTHU7TJH5v7OFjdTPtb0cULDvnfTeKZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736114326719-5b1fv46r18vqj7nfsjf6jdiih3a640rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
